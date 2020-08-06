@@ -1,0 +1,13 @@
+.pagination {
+    margin-top: 20px;
+    float: right;
+}
+.pagination li a{
+    padding: 10px;
+    border: 1px solid #333;
+    background: #dee2e6;
+}
+.pagination li.active a{
+    background: #fff;
+    color : black;
+}

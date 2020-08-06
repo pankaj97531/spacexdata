@@ -1,0 +1,9 @@
+#historydetils p{
+    border-bottom: 1px dashed ;
+}
+#historydetils label{
+    font-weight: bold;
+}
+#historydetils .historylink{
+    padding: 10px;
+}
